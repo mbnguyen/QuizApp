@@ -1,62 +1,64 @@
 [
   {
-    "question": "What's the keyword for declaring a new variable?",
+    "question": "An là một cô gái như thế nào?",
     "answers": [
-      "var",
-      "let",
-      "variable"
+      "Thông minh",
+      "Lanh lợi",
+      "Trẻ trâu"
     ],
-    "correctAnswerIndex": 0,
-    "feedback": "var is the keyword used to declare a new variable."
+    "correctAnswerIndex": 2,
+    "feedback": "Bạn đã nghĩ sai về An rồi."
   },
   {
-    "question": "What's is my name?",
+    "question": "Giới tính của An?",
     "answers": [
-      "constant",
-      "Minh",
-      "const"
+      "Trai",
+      "Nam",
+      "Bê đê"
     ],
-    "correctAnswerIndex": 1,
-    "feedback": "let is the keyword used to declare a new variable."
+    "correctAnswerIndex": 2,
+    "feedback": "Bạn cần hiểu rõ hơn về giới tính của An nhé."
   },
   {
-  "question": "What's the keyword for declaring a new variable?",
+  "question": "Minh là một ngưới như thế nào?",
   "answers": [
-              "var",
-              "v",
-              "variable"
+              "Đẹp trai",
+              "Hát hay",
+              "Tài giỏi",
+              "Thông minh",
+              "Tất cả đều chuẩn con mẹ nó luôn!"
+              ],
+  "correctAnswerIndex": 4,
+  "feedback": "Bạn có thiếu sót gì không nào?^^"
+  },
+  {
+  "question": "An có có biệt danh là gì?",
+  "answers": [
+              "An không có biệt danh",
+              "Cô bé Ngân",
+              "Cô gái Du",
+              "B và C đều đúng!"
+              ],
+  "correctAnswerIndex": 3,
+  "feedback": "Hãy suy nghĩ xem đặc điểm nhận dạng của An để có thể đoán được biệt danh của cô ấy nhé."
+  },
+  {
+  "question": "An có biệt tài nào nhỉ?",
+  "answers": [
+              "Nhảy hip hop",
+              "Đánh lộn",
+              "Hát rap"
               ],
   "correctAnswerIndex": 0,
-  "feedback": "var is the keyword use to declare a new variable."
+  "feedback": "Bạn nên thử đánh lộn với An nhé. ^^"
   },
   {
-  "question": "What's the keyword for declaring a new constant?",
+  "question": "Trong ngôi nhà này, ai là con người hoàn hảo, xứng đáng cháu ngoan Bác Hồ các kiểu?",
   "answers": [
-              "constant",
-              "let",
-              "con"
+              "Minh",
+              "An"
               ],
-  "correctAnswerIndex": 1,
-  "feedback": "let is the keyword use to declare a new constant."
-  },
-  {
-  "question": "What's the key difference between a class and a structure?",
-  "answers": [
-              "Classes are value types and Structures are reference types",
-              "Structures are value types and Classes are reference types",
-              "Classes can have methods while Structures can't"
-              ],
-  "correctAnswerIndex": 1,
-  "feedback": "Classes are reference types and get passed around by reference. Structures are value types that get copied when passed around."
-  },
-  {
-  "question": "What is a Type method?",
-  "answers": [
-              "A method that can only be declared in that Type",
-              "A method that is called on an instance of the Type",
-              "A method that can be called on the Type directly"
-              ],
-  "correctAnswerIndex": 2,
-  "feedback": "Type methods use the static keyword in their declaration and can be called directly on the Class or Structure."
+  "correctAnswerIndex": 0,
+  "feedback": "An tuổi gì sánh vai với Minh vậy bạn?"
   }
 ]
