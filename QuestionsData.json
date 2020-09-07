@@ -1,7 +1,7 @@
 [
   {
     "question": "What's the keyword for declaring a new variable?",
-    "answer": [
+    "answers": [
       "var",
       "let",
       "variable"
@@ -11,7 +11,7 @@
   },
   {
     "question": "What's is my name?",
-    "answer": [
+    "answers": [
       "constant",
       "Minh",
       "const"
