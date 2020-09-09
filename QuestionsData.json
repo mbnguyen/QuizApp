@@ -1,64 +1,64 @@
 [
   {
-    "question": "An là một cô gái như thế nào?",
+    "question": "How many day are there in a year?",
     "answers": [
-      "Thông minh",
-      "Lanh lợi",
-      "Trẻ trâu"
+      "7 days",
+      "30 days",
+      "365 days"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Bạn đã nghĩ sai về An rồi."
+    "feedback": "Read the question carefully."
   },
   {
-    "question": "Giới tính của An?",
+    "question": "What two things can you never eat for breakfast?",
     "answers": [
-      "Trai",
-      "Nam",
-      "Bê đê"
+      "Egg and rice",
+      "Chicken and beef",
+      "Lunch and dinner"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "Bạn cần hiểu rõ hơn về giới tính của An nhé."
+    "feedback": "Can you eat lunch for breakfast?"
   },
   {
-  "question": "Minh là một ngưới như thế nào?",
+  "question": "What never asks a question but gets answered all the time?",
   "answers": [
-              "Đẹp trai",
-              "Hát hay",
-              "Tài giỏi",
-              "Thông minh",
-              "Tất cả đều chuẩn con mẹ nó luôn!"
+              "A dog",
+              "A robot",
+              "A cellphone",
+              "A computer"
               ],
-  "correctAnswerIndex": 4,
-  "feedback": "Bạn có thiếu sót gì không nào?^^"
+  "correctAnswerIndex": 2,
+  "feedback": "Answer your phone, please."
   },
   {
-  "question": "An có có biệt danh là gì?",
+  "question": "What will you actually find at the end of every rainbow?",
   "answers": [
-              "An không có biệt danh",
-              "Cô bé Ngân",
-              "Cô gái Du",
-              "B và C đều đúng!"
+              "Red stripe",
+              "Nothing",
+              "Letter w",
+              "The sun"
               ],
-  "correctAnswerIndex": 3,
-  "feedback": "Hãy suy nghĩ xem đặc điểm nhận dạng của An để có thể đoán được biệt danh của cô ấy nhé."
+  "correctAnswerIndex": 2,
+  "feedback": "Rainbow.. Spell it out.."
   },
   {
-  "question": "An có biệt tài nào nhỉ?",
+  "question": "What can be caught but never thrown?",
   "answers": [
-              "Nhảy hip hop",
-              "Đánh lộn",
-              "Hát rap"
+              "A ball",
+              "A cold",
+              "A rock"
               ],
   "correctAnswerIndex": 1,
-  "feedback": "Bạn nên thử đánh lộn với An nhé. ^^"
+  "feedback": "Have you ever thrown a cold?"
   },
   {
-  "question": "Ai là con người hoàn hảo, xứng đáng cháu ngoan Bác Hồ các kiểu?",
+  "question": "What has a face and two hands, but no arms or legs?",
   "answers": [
-              "Minh",
-              "An"
+              "A clock",
+              "A table",
+              "A nightstand"
               ],
   "correctAnswerIndex": 0,
-  "feedback": "Tuổi trẻ chưa trải sự đời. Mình thất vọng về bạn.:("
+  "feedback": "What time is it?"
   }
 ]
